@@ -8,7 +8,7 @@ app = Flask(__name__)
 url_mapping = {}
 
 # Base URL for the shortener
-BASE_URL = "https://yurl/"
+BASE_URL = "https://yurl.vercel.app/"
 
 # Function to generate a random short string
 def generate_short_url():
