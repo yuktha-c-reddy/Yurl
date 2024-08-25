@@ -58,6 +58,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Feel free to open issues or submit pull requests. Contributions are welcome!
+Features i'm working on :
+1. Custom shorten url domains
+2. Password protected links
+3. Self-expiration and activation of custom links
 
 
 
