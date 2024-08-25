@@ -9,7 +9,11 @@ Yurl is a simple URL shortener built with Flask. It allows users to shorten long
 - **Simple Web Interface**: Input and view shortened URLs through a web interface.
 - **API Endpoint**: Shorten URLs via a POST request to the `/shorten` endpoint.
 
-## Installation
+## Features in work
+
+1. Custom shorten url domains
+2. Password protected links
+3. Self-expiration and activation of custom links
 
 ### Prerequisites
 
@@ -54,14 +58,6 @@ Yurl is a simple URL shortener built with Flask. It allows users to shorten long
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Feel free to open issues or submit pull requests. Contributions are welcome!
-Features i'm working on :
-1. Custom shorten url domains
-2. Password protected links
-3. Self-expiration and activation of custom links
 
 
 
